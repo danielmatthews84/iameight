@@ -20,7 +20,7 @@ package uk.co.iameight.commands.portfolio
 
 		override public function execute():void
 		{
-
+			portfolioService.loadPortfolio();
 		}
 	}
 }
