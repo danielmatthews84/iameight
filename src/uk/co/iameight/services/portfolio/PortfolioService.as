@@ -5,5 +5,10 @@ package uk.co.iameight.services.portfolio
 		public function PortfolioService()
 		{
 		}
+
+		public function loadPortfolio():void
+		{
+
+		}
 	}
 }
